@@ -84,3 +84,6 @@ Exception in thread "main" java.lang.Error: Unresolved compilation problem:
 Fix the code so it works and commit your changes.
 Result: HelloWorld 
 Hello Object Oriented Programming
+
+Had trouble in Brightspace saying this is not completed.
+I am trying to Commit it again.
